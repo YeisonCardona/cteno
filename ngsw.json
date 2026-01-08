@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1767889831411,
+  "timestamp": 1767890203173,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -112,7 +112,7 @@
         "/chunk-ZLARDY7D.js",
         "/favicon.ico",
         "/index.html",
-        "/main-4VAPJ2JK.js",
+        "/main-424W3QKO.js",
         "/manifest.webmanifest",
         "/polyfills-5CFQRCPP.js",
         "/styles-TAARSFCQ.css"
@@ -444,8 +444,8 @@
     "/cteno_logo.svg": "564b5f13973c28b6eac245521065c0946d72cc78",
     "/favicon.ico": "28223e1554ef54327e9cbb5db015deafdfbcc944",
     "/favicon.png": "baef56891b99254e592dfab6a93f6d105dde4e1e",
-    "/index.html": "1abab39d3f2150bb535dacea88d252e067f88ae1",
-    "/main-4VAPJ2JK.js": "8d4e1af7c07ec1546aa9bd5254d2f1d5e1ef5901",
+    "/index.html": "10d65c089d63872e92d2202646ad2b0b830e776f",
+    "/main-424W3QKO.js": "f3c80126e1131c7e7481495e401b08fc75304d35",
     "/manifest.webmanifest": "de015c3ef11c0fb334a652d6440fb0c5b3286325",
     "/media/Manrope-VariableFont_wght-OKHRIJEM.ttf": "b190c931d200c0e72563c94a5f7568ca69bdb8b6",
     "/media/Roboto-Italic-VariableFont_wdth,wght-JULNKXLA.ttf": "eb51d6042f676b736a552744a77dc352d92a08e1",
